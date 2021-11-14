@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ForecastApplication</string>
+    <string name="search">Search</string>
+    <string name="insert_location">Location</string>
+    <string name="you_can_search_location">You can search location</string>
+    <string name="logo">logo</string>
+    <string name="city">City</string>
+    <string name="name">Name</string>
+    <string name="temp">Temp</string>
+    <string name="temp_min">Temp min</string>
+    <string name="temp_max">Temp max</string>
+    <string name="time">Time</string>
+    <string name="icon">Icon</string>
 </resources>
